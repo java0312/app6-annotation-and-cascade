@@ -1,0 +1,18 @@
+Task 1
+	Compose program in that link https://docs.google.com/document/d/1oGjZhS57B4ANcmOrWHUK546RQ4SQOdEjz9OOVzbI69w/edit?usp=sharing
+
+| - - - - - - - - - |
+
+Task 2
+	Compose program in that link
+https://docs.google.com/document/d/1wy01_nKFsRSU53WKRJZJ1vAZQ1GqafnXwsijpk5dWZM/edit?usp=sharing
+
+| - - - - - - - - - |
+Task 3
+	Learn information in that link
+https://www.baeldung.com/spring-data-annotations
+
+| - - - - - - - - - |
+Task 4
+	Learn information in that link
+https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#transactions
